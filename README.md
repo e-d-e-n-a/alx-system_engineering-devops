@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-This is a new repo
+a script that switches the current user to the user betty.
